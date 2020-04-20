@@ -56,3 +56,15 @@ select{
     height: 33px;
     width: 50px;
 }
+@media (max-width: 700px) {
+    .box{
+        display: block;
+        height: 230px;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    .btn{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
