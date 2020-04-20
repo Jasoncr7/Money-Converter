@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: plum;
+}
+.center{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+header{
+    padding-top: 3%;
+}
+select{
+    width: 200px;
+    height: 40px;
+    padding-left: 35px;
+    font-size: 1rem;
+    margin-top: 1%;
+}
+.box{
+    width: 430px;
+    height: 110px;
+    border-bottom: 5px solid blue;
+    border-top: 5px solid blue;
+    padding-top: 2%;
+    margin: auto auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 8rem;
+    background-color: white;
+}
+.naira{
+    height: 40px;
+    padding-left: 9px;
+    letter-spacing: 1px;
+}
+.result{
+    background-color: #171717;
+    border: none;
+    height: 51px;
+    width: 30%;
+    padding-left: 8%;
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 5px;
+}
+.btn{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: palegreen;
+    height: 33px;
+    width: 50px;
+}
